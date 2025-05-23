@@ -55,3 +55,7 @@ img[src*='images/pompompurindrinking.gif'] {
 img:hover {
     opacity: 100%;
 }
+
+p {
+    color: chocolate;
+}
