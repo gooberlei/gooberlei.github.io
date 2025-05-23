@@ -36,20 +36,8 @@ nav a:hover {
     cursor: grab;
 }
 
-span,
-td{
-    font-style: italic;
-}
-
 .banner:hover {
     color: orange;
-}
-
-span.jumpouttext {
-    
-    size: 333px;
-    color:chocolate;
-    font-weight: bold;
 }
 
 .banner {
